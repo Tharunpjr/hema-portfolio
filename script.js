@@ -72,7 +72,7 @@ showAllBtn.addEventListener('click', () => {
   });
   showAllBtn.textContent = allShown
     ? 'Show Less ↑'
-    : 'View All 10 Projects ↓';
+    : 'View All 11 Projects ↓';
 
   if (allShown) {
     setTimeout(() => {
